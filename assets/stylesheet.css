@@ -1,0 +1,104 @@
+
+/*navbar background color*/
+.navbar-default{
+    background-color: white;
+}
+
+/*navbar-header*/
+#Latitude{
+    color:white;
+    background-color: rgb(55, 168, 168);
+    padding: 10px;
+    margin-left: 50px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.navbar li{
+    display: inline-block;
+    padding: 20p;
+    margin-right:10px;
+    margin-left: 10px;
+    cursor: pointer;
+    float: right;
+}
+
+
+/* main content*/
+#main-container-fluid{
+    background-color: rgb(196, 188, 188);
+    margin-left: -15px;
+    margin-right: -15px;
+    margin-top: -20px;
+}
+
+.temp{
+        float: left;
+        width: 250px;
+        shape-outside: assets/temperature-Copy1.png;
+        shape-margin:20px;
+        margin-right: 20px;
+        margin-bottom: 20px;
+}
+
+.col-md-6{
+    color:rgb(55, 168, 168);
+    padding-left: 50px;
+    padding-right:50px;
+    padding-top:0px;
+    padding-bottom:50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50p; 
+    background-color:white;
+    flex: 50%;
+    
+}
+
+.col-md-4{
+    color:rgb(55, 168, 168);
+    padding-left: 50px;
+    padding-right:500px;
+    padding-top:0px;
+    padding-bottom:50px;
+    margin-left: 10px;
+    margin-right: 0px;
+    margin-top: 50px;
+    margin-bottom: 50px; 
+    background-color:white;
+    align-content: center;
+    flex: 50%;
+    
+}
+.col-md-2m img{
+        flex: 50%;
+        padding: 0 4px;
+}
+
+/*footer*/
+#footer {
+    color:white
+    background-color; blue:
+}
+
+#title{
+    color:rgb(55, 168, 168);
+}
+
+.col-md-10{
+    color:rgb(55, 168, 168);
+    margin-left: 50px;
+    margin-right: 500px;
+    margin-top: 50px;
+    margin-bottom: 50px; 
+    padding-left: 50px;
+    padding-right:50px;
+    background-color:white;
+    
+}
+
+#explanations{
+    color: black;
+}
+
+
