@@ -77,8 +77,15 @@
 
 /*footer*/
 #footer {
-    color:white
-    background-color; blue:
+    color:white;
+    background-color: rgb(82, 85, 85);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 20px;
+    margin-bottom: 0px; 
+    padding-left: 0px;
+    padding-right:0px;
+    
 }
 
 #title{
@@ -87,18 +94,54 @@
 
 .col-md-10{
     color:rgb(55, 168, 168);
-    margin-left: 50px;
-    margin-right: 500px;
-    margin-top: 50px;
-    margin-bottom: 50px; 
-    padding-left: 50px;
-    padding-right:50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px; 
+    padding-left: 20px;
+    padding-right:20px;
     background-color:white;
     
 }
 
+.col-md-12{
+    color:rgb(55, 168, 168);
+    padding-left: 50px;
+    padding-right:0px;
+    padding-top:5px;
+    padding-bottom:0px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px; 
+    background-color:white;
+    flex: 50%;
+}
 #explanations{
     color: black;
+    margin-left: 20px;
+    padding-left: 20px;
+}
+
+.table-responsive{
+    width:100%;
+    padding-right: 90px;
 }
 
 
+#main{
+    margin-left: 80px;
+    padding-top:100px;
+    padding-left:50px;
+    
+}
+#comparison_main{
+    margin-right= 0px;
+    padding-right:0px;
+
+}
+
+#col-md-4-img{
+    flex: 50%;
+    padding: 0 4px;
+}
